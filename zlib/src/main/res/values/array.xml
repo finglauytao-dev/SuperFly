@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="gradient_lines_colors">
+        <item>#eda1c1</item>
+        <item>#bee4d2</item>
+        <item>#d7f8f7</item>
+        <item>#fab2ac</item>
+        <item>#203541</item>
+        <item>#f62a66</item>
+        <item>#374955</item>
+        <item>#ffd933</item>
+    </string-array>
+</resources>

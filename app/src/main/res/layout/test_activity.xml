@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical">
+
+    <WebView
+        android:id="@+id/webview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+<!--
+    <com.finglauytao.zlib.anim.star.SixStarSprite
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_margin="5dp" />
+
+    <com.finglauytao.zlib.anim.star.SixStarSprite
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_margin="5dp" />
+
+    <com.finglauytao.zlib.anim.star.SixStarSprite
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_margin="5dp" />
+
+    <com.finglauytao.zlib.anim.star.StarSprite
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_margin="5dp" />
+
+    <com.finglauytao.zlib.anim.star.StarSprite
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_margin="5dp" />
+
+    <com.finglauytao.zlib.anim.star.StarSprite
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_margin="5dp" />
+
+    <com.finglauytao.zlib.anim.star.StarSprite
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_margin="5dp" />
+
+    <com.finglauytao.zlib.anim.star.StarSprite
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_margin="5dp" />
+
+    <com.finglauytao.zlib.anim.star.StarSprite
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_margin="5dp" />
+
+    <com.finglauytao.zlib.anim.star.StarSprite
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_margin="5dp" />
+
+    <com.finglauytao.zlib.anim.star.StarSprite
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_margin="5dp" />
+
+    <com.finglauytao.zlib.anim.star.StarSprite
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_margin="5dp" />
+
+    <com.finglauytao.zlib.anim.star.StarSprite
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_margin="5dp" />-->
+
+</LinearLayout>

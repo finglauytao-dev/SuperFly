@@ -1,0 +1,14 @@
+//****************************************************//
+Net Lib
+implementation 'com.squareup.okhttp3:okhttp:3.11.0'
+
+
+ViewModel + LiveData
+implementation "android.arch.lifecycle:extensions:1.1.1"
+implementation "android.arch.lifecycle:viewmodel:1.1.1"
+
+2018-8-20
+RecyclerView 封装v1.0.0
+
+2018-10-19
+对ZBaseActivity进行分离，封装生命周期管理ZLifeActivity
